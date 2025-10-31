@@ -137,7 +137,7 @@ The IDS strengthens network defense and helps understand practical cybersecurity
 ## 👥 Contributors
 
 * **Suleman Sarwar**
-* **Team Members (if any)**
+* **Abdul Moeed**
 * Department of Software Engineering, SZABIST University, Islamabad
 
 ## 📚 References
