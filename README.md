@@ -1,4 +1,4 @@
-# 🧠 Intrusion Detection System (IDS) – Networking Project
+# Intrusion Detection System (IDS) – Networking Project
 
 ## 📘 Overview
 
